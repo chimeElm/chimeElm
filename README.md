@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chimeElm
+- 👀 主要研究Python爬虫，深度学习和Web前后端有所涉猎
+- 🌱 Github上仅开源非爬虫项目或大型工程
+- 💞️ 爬虫代码分享平台：https://chowluking.com/share
+- 📫 B站持续更新爬虫视频：https://space.bilibili.com/330783617
